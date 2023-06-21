@@ -1,0 +1,19 @@
+body{
+    box-shadow:  4px 4px 8px 4px #000;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+    background-color: aliceblue;
+    
+}
+
+form input {
+    color:rgba(0, 0, 0, 0);
+}
+
+form div {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
